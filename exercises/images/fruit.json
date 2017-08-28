@@ -1,0 +1,14 @@
+{
+  "fruit": {
+    "correct": "true",
+    "feedback": "Correct, this is a fruit."
+  },
+  "vegetable": {
+    "correct": "false",
+    "feedback": "This is not a fruit."
+  },
+  "berry": {
+    "correct": "false",
+    "feedback": "This is not a fruit."
+  }
+}

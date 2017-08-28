@@ -1,0 +1,41 @@
+<html>
+<head>
+  <style>
+  table, th, td {
+    border: medium solid black;
+    border-collapse: collapse;
+  }
+  table {
+    margin-bottom: 0.5em;
+  }
+  img {
+    max-height: 100px;
+    width: auto;
+  }
+  .clickable {
+    /* hack: clickable spans are inside table cells and
+      they do not fill the whole available vertical space without hacks */
+    float: left;
+    height: 100px;
+    min-width: 90%;
+  }
+  </style>
+</head>
+<body>
+
+<h1>Point and click the fruit in the images below</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><![CDATA[{vegetable:<img src="/static/pointandclick-example/cucumber.png" alt="cucumber">}]]></td>
+      <td><![CDATA[{fruit:<img src="/static/pointandclick-example/pineapple.png" alt="pineapple">}]]></td>
+      <td><![CDATA[{berry:<img src="/static/pointandclick-example/strawberry.png" alt="strawberry">}]]></td>
+      <td><![CDATA[{vegetable:<img src="/static/pointandclick-example/carrot.png" alt="carrot">}]]></td>
+      <td><![CDATA[{fruit:<img src="/static/pointandclick-example/banana.png" alt="banana">}]]></td>
+      <td><![CDATA[{fruit:<img src="/static/pointandclick-example/apple.png" alt="apple">}]]></td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>

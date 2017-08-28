@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Tapio Auvinen"
+  },
+  "contributors": [
+    {
+      "name": "Markku Riekkinen"
+    }
+  ],
+  "description": "Example content package for the ACOS server pointandclick content type",
+  "license": "MIT",
+  "main": "index.coffee",
+  "name": "acos-pointandclick-example",
+  "version": "0.3.0"
+}

@@ -1,0 +1,19 @@
+{
+  "w": {
+    "correct": "false",
+    "feedback": "No comma here"
+  },
+  "c": {
+    "correct": "true",
+    "feedback": "Correct",
+    "reveal": ", "
+  },
+  "list": {
+    "correct": "true",
+    "feedback": "Correct, this is a list.",
+    "reveal": ", "
+  },
+  "and": {
+    "feedback": "Either way is correct"
+  }
+}

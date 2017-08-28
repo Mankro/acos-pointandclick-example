@@ -1,0 +1,152 @@
+{
+    "1": {
+    "correct": "false",
+    "feedback": "<img src=\"/static/pointandclick-english/sad.gif\" alt=\"A sad smiley\"> <strong>Sorry!</strong> <code>Creative commons</code> is a noun phrase functioning as the subject in this sentence."
+  },
+    "2": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p><code>provides</code> is the main verb in sentence 1. For more information about the use of verbs in academic writing, see also <a href=\"http://sana.aalto.fi/awe/style/vocabulary/verbs/index.html\" target=\"_blank\">Vocabulary choice: verbs</a>.</p>" 
+  },
+    "3": {
+    "correct": "false",
+    "feedback": "<img src=\"/static/pointandclick-english/sad.gif\"> <strong>Sorry!</strong> <code>free, easy-to-use</code> are adjectives."
+  },
+    "4": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>copyright licenses</code> is a noun phrase."
+  },
+    "5": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>allowing</code> is a verb (gerund), but it is not the main verb in this sentence."
+  },
+    "6": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>a simple, standardized way</code> is a noun phrase."
+  },
+    "7": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>to give</code> is a verb but not the main verb."
+  },
+    "8": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>the public permission</code> is a noun phrase."
+  },
+    "9": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>to share and use</code> are verbs but not the main verbs."
+  },
+    "10": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>creative work</code> is a noun phrase."
+  },
+    "11": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>In addition</code> is a <a href=\"http://sana.aalto.fi/awe/cohesion/signposts/additive/index.html\" target=\"_blank\">sentence connector</a>."
+  },
+    "12": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>CC licenses</code> is a noun phrase functioning as the subject in this sentence."
+  },
+    "13": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p> <code>let</code> is the first element in the main verb phrase in sentence 2. The whole verb phrase is <code>let ... change</code>.</p>"
+  },
+    "14": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>users</code> is a noun phrase (functioning as an indirect object)."
+  },
+    "15": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>easily change</code> is the second element in the main verb phrase in sentence 2. The whole verb phrase is \"let ... change\". The adverb \"easily\" describes the action indicated in the verb \"change\".</p>" 
+  },
+    "16": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>their copyright terms from the default of \"all rights reserved\" to \"some rights reserved\" </code> is a long noun phrase (functioning as an direct object)."
+  },
+    "17": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>Although</code> is a <a href=\"http://sana.aalto.fi/awe/cohesion/signposts/contrast/index.html\" target=\"_blank\">subordinate conjunction</a>."
+  },
+    "18": {
+    "correct": "false", 
+    "feedback": "<strong>Sorry!</strong> <code>Creative Commons licenses</code> is a noun phrase. It functions as the subject in this subordinate clause. However, it is not the main subject in sentence 3."
+  },
+    "19": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>are</code> is a verb. However, it is not the main verb in sentence 3."
+  },
+    "20": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>not an alternative to copyright</code> is a noun phrase."
+  },
+    "21": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>they</code> is a personal pronoun (functioning as a subject)."
+  },
+    "22": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>work</code> is the first main verb in this sentence.</p>" 
+  },
+    "23": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>alongside copyright</code> is a adverbial phrase."
+  },
+    "24": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>allow</code> is the second main verb in this sentence.</p>" 
+  },
+    "25": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>users</code> is a noun."
+  },
+    "26": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>to modify</code> is a verb (infinitive form), but it is not the main verb."
+  },
+    "27": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>copyright terms</code> is a noun phrase."
+  },
+    "28": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>to best suit</code> is a verb phrase (infinitive form), but it is not the main verb."
+  },
+    "29": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>their needs</code> is a noun phrase."
+  },
+    "30": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>Currently</code> is an adverb (or a connector)."
+  },
+    "31": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>the CC Affiliate Network</code> is a noun phrase (functioning as a subject)."
+  },
+    "32": {
+    "correct": "true",
+    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>consists of</code> is the main verb in this sentence.</p>" 
+  },
+    "33": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>100+ affiliates</code> is a noun phrase."
+  },
+    "34": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>working</code> is a verb (gerund form), but it is not the main verb."
+  },
+    "35": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>in over 79 jurisdictions</code> is a adverbial phrase."
+  },
+    "36": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>to support and promote</code> is a verb phrase (infinitive form), but it is not the main verb."
+  },
+    "37": {
+    "correct": "false",
+    "feedback": "<strong>Sorry!</strong> <code>CC activities around the world</code> is a noun phrase (functioning as an object)."
+  }
+}
+
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Custom styles can be added within the style tag */
+    .customStyle {
+      color: blue;
+    }
+  </style>
+  <!-- Include css files with link tags -->
+  <link href="/static/pointandclick-example/custom_styles.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+</head>
+<body>
+    
+  <div class="container-fluid"> <!-- some bootstrap markup-->
+    <div class="row">
+      <div class="col-lg-12">  
+        <p class="customStyle">HTML tags work <i>normally</i>.</p>
+        
+        <p>Add commas by clicking</p>
+        <p>Aalto Festival{w:}(16-31{w:}May{w:}2016){c:}which{w:}is{w:}now{w:}organised{w:}for{w:}the{w:}second{w:}time{c:}will{w:}include{w:}exhibitions{list:}seminars{list:}shows{and:}and{w:}prototypes{w:}as{w:}well{w:}as{w:}much{w:}more{w:}from{w:}the{w:}fields{w:}of{w:}
+        
+        <!-- Alternative syntax: -->
+        art<clickable correct="true"> <feedback>Yes, you should put a comma here.</feedback><reveal>, </reveal></clickable>design{list:}technology{and:}and<clickable correct="false"> <feedback>No comma here.</feedback></clickable>economy.</p>
+      
+        <p class="key">KEY: Aalto Festival (16-31 May 2016), which is now organised for the second time, will include exhibitions, seminars, shows and prototypes as well as much more from the fields of art, design, technology and economy.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "w": {
+    "correct": "false",
+    "feedback": "No article should be used here.",
+    "reveal": "&empty;"
+  },
+  "a": {
+    "correct": "true",
+    "feedback": "Correct! An indefinite article is needed here.",
+    "reveal": " a "
+  },
+  "an": {
+    "correct": "true",
+    "feedback": "Correct! An indefinite article is needed here.",
+    "reveal": " an "
+  },
+  "An": {
+    "correct": "true",
+    "feedback": "Correct! An indefinite article is needed here.",
+    "reveal": " An "
+  },
+  "the": {
+    "correct": "true",
+    "feedback": "Correct! A definite article is needed here because the noun is unique.",
+    "reveal": " the "
+  },
+  "The": {
+    "correct": "true",
+    "feedback": "Correct! A definite article is needed here because the noun is unique.",
+    "reveal": " The "
+  }
+}
