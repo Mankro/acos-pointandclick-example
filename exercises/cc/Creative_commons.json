@@ -1,15 +1,15 @@
 {
     "1": {
     "correct": "false",
-    "feedback": "<img src=\"/static/pointandclick-english/sad.gif\" alt=\"A sad smiley\"> <strong>Sorry!</strong> <code>Creative commons</code> is a noun phrase functioning as the subject in this sentence."
+    "feedback": "<img src=\"/static/pointandclick-example/sad.gif\" alt=\"A sad smiley\"> <strong>Sorry!</strong> <code>Creative commons</code> is a noun phrase functioning as the subject in this sentence."
   },
     "2": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p><code>provides</code> is the main verb in sentence 1. For more information about the use of verbs in academic writing, see also <a href=\"http://sana.aalto.fi/awe/style/vocabulary/verbs/index.html\" target=\"_blank\">Vocabulary choice: verbs</a>.</p>" 
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p><code>provides</code> is the main verb in sentence 1. For more information about the use of verbs in academic writing, see also <a href=\"http://sana.aalto.fi/awe/style/vocabulary/verbs/index.html\" target=\"_blank\">Vocabulary choice: verbs</a>.</p>" 
   },
     "3": {
     "correct": "false",
-    "feedback": "<img src=\"/static/pointandclick-english/sad.gif\"> <strong>Sorry!</strong> <code>free, easy-to-use</code> are adjectives."
+    "feedback": "<img src=\"/static/pointandclick-example/sad.gif\"> <strong>Sorry!</strong> <code>free, easy-to-use</code> are adjectives."
   },
     "4": {
     "correct": "false",
@@ -49,7 +49,7 @@
   },
     "13": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p> <code>let</code> is the first element in the main verb phrase in sentence 2. The whole verb phrase is <code>let ... change</code>.</p>"
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong> <p> <code>let</code> is the first element in the main verb phrase in sentence 2. The whole verb phrase is <code>let ... change</code>.</p>"
   },
     "14": {
     "correct": "false",
@@ -57,7 +57,7 @@
   },
     "15": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>easily change</code> is the second element in the main verb phrase in sentence 2. The whole verb phrase is \"let ... change\". The adverb \"easily\" describes the action indicated in the verb \"change\".</p>" 
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>easily change</code> is the second element in the main verb phrase in sentence 2. The whole verb phrase is \"let ... change\". The adverb \"easily\" describes the action indicated in the verb \"change\".</p>" 
   },
     "16": {
     "correct": "false",
@@ -85,7 +85,7 @@
   },
     "22": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>work</code> is the first main verb in this sentence.</p>" 
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>work</code> is the first main verb in this sentence.</p>" 
   },
     "23": {
     "correct": "false",
@@ -93,7 +93,7 @@
   },
     "24": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>allow</code> is the second main verb in this sentence.</p>" 
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>allow</code> is the second main verb in this sentence.</p>" 
   },
     "25": {
     "correct": "false",
@@ -125,7 +125,7 @@
   },
     "32": {
     "correct": "true",
-    "feedback": "<img src=\"/static/pointandclick-english/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>consists of</code> is the main verb in this sentence.</p>" 
+    "feedback": "<img src=\"/static/pointandclick-example/smile.gif\" alt=\"A smiley\"> <strong>Correct!</strong>  <p><code>consists of</code> is the main verb in this sentence.</p>" 
   },
     "33": {
     "correct": "false",
