@@ -4,7 +4,8 @@
   },
   "contributors": [
     {
-      "name": "Markku Riekkinen"
+      "name": "Markku Riekkinen",
+      "name": "Jan-Mikael Rybicki"
     }
   ],
   "description": "Example content package for the ACOS server pointandclick content type",
