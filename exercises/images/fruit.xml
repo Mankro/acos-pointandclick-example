@@ -34,6 +34,7 @@
       <td><![CDATA[{fruit:<img src="/static/pointandclick-example/banana.png" alt="banana">}]]></td>
       <td><![CDATA[{fruit:<img src="/static/pointandclick-example/apple.png" alt="apple">}]]></td>
     </tr>
+    <p>Images can be found at <a href"https://openclipart.org/">https://openclipart.org/</a></p>
   </tbody>
 </table>
 

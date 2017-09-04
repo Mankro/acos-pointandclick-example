@@ -23,3 +23,8 @@ Start ACOS server like this:
 ```
 
 Go to http://localhost:3000/
+
+Sample exercises
+================
+
+See the `exercises` directory in this content package for various ideas on how to use the point-and-click content type for instruction. 
