@@ -14,7 +14,7 @@
     "reveal": ", "
   },
   "and": {
-    "feedback": "Either way is correct. British English usually omits a comma here, whereas American English requires a comma before <code>and</code> in a list."
+    "feedback": "&#9734; Either way is correct. British English usually omits a comma here, whereas American English requires a comma before <code>and</code> in a list."
   }
 }
 
