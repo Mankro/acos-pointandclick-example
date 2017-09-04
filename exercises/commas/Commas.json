@@ -1,19 +1,21 @@
 {
   "w": {
     "correct": "false",
-    "feedback": "No comma here"
+    "feedback": "&#10060; Sorry! No comma is needed here."
   },
   "c": {
     "correct": "true",
-    "feedback": "Correct",
+    "feedback": "&#9989; Correct!",
     "reveal": ", "
   },
   "list": {
     "correct": "true",
-    "feedback": "Correct, this is a list.",
+    "feedback": "&#9989; Correct! This is a list, and it needs commas.",
     "reveal": ", "
   },
   "and": {
-    "feedback": "Either way is correct"
+    "feedback": "Either way is correct. British English usually omits a comma here, whereas American English requires a comma before <code>and</code> in a list."
   }
 }
+
+
