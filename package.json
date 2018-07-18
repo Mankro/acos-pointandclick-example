@@ -12,11 +12,18 @@
   ],
   "description": "Example content package for the ACOS server pointandclick content type",
   "license": "MIT",
-  "main": "index.coffee",
+  "main": "index.js",
   "name": "acos-pointandclick-example",
   "version": "0.3.2",
   "repository": {
     "type": "git",
-    "url": "git@github.com:acos-server/acos-pointandclick-example.git"
+    "url": "https://github.com/acos-server/acos-pointandclick-example.git"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.3.1"
+  },
+  "scripts": {
+    "coffee": "coffee --compile --bare --no-header index.coffee",
+    "prepare": "npm run coffee"
   }
 }
